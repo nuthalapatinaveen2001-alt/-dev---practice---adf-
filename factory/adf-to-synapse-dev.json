@@ -1,0 +1,9 @@
+{
+	"name": "adf-to-synapse-dev",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06e024dd-1f00-4338-b95b-519990b5f8c6",
+		"tenantId": "84a1faab-60e9-4864-9292-2c8c09be5818"
+	}
+}
